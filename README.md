@@ -16,7 +16,7 @@
       </tr>
 	  <tr>
       <td>Salesforce's Kafka-Inspired Architecture</td>
-      <td>https://lnkd.in/gBH3bwGq</td>
+      <td>https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63/</td>
       </tr>
 	  <tr>
       <td>NYT's Publishing with Kafka</td>
