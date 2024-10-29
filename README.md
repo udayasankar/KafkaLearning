@@ -1,4 +1,5 @@
 # KafkaLearning
+# KafkaLearning
 <html>
     <body>
     <table>
@@ -20,39 +21,39 @@
       </tr>
 	  <tr>
       <td>NYT's Publishing with Kafka</td>
-      <td>https://lnkd.in/gqcwF_zP</td>
+      <td>https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077</td>
       </tr>
 	  <tr>
       <td>Yelp's Billions of Messages</td>
-      <td>https://lnkd.in/g7_fcfB7</td>
+      <td>https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html</td>
       </tr>	 
 	  <tr>
       <td>Criteo's Kafka Upgrade</td>
-      <td>https://lnkd.in/gwGx8wvq</td>
+      <td>https://medium.com/criteo-labs/upgrading-kafka-on-a-large-infra-3ee99f56e970</td>
       </tr>	
 	  <tr>
       <td>Shopify's Kafka on Kubernetes</td>
-      <td>https://lnkd.in/gSdHqzb4</td>
+      <td>https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify</td>
       </tr>	
 	  <tr>
       <td>Yelp's Kafka on Kubernetes</td>
-      <td>https://lnkd.in/gkcfT-Vq</td>
+      <td>https://engineeringblog.yelp.com/2022/03/kafka-on-paasta-part-two.html</td>
       </tr>	 
 	  <tr>
       <td>Yelp's Zero-Downtime Zookeeper Migration</td>
-      <td>https://lnkd.in/gHdphiQY</td>
+      <td>https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html</td>
       </tr>	  
 	  <tr>
       <td>Uber's Kafka Reprocessing</td>
-      <td>https://lnkd.in/gti2xZuR</td>
+      <td>https://eng.uber.com/reliable-reprocessing/</td>
       </tr>   	
 	  <tr>
       <td>Uber's Kafka Auditing</td>
-      <td>https://lnkd.in/gDF2S-vX</td>
+      <td>https://eng.uber.com/chaperone/</td>
       </tr>  	
 	  <tr>
       <td>Dropbox's Kafka Throughput Limits</td>
-      <td>https://lnkd.in/gqpwjHzv</td>
+      <td>https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/</td>
       </tr>  
 	  <tr>
       <td>Walmart's Cost Orchestration</td>
@@ -60,16 +61,24 @@
       </tr>  	
 	  <tr>
       <td>Hulu's Million Metrics per Second</td>
-      <td>https://lnkd.in/gRnBFEUv</td>
+      <td>https://medium.com/hulu-tech-blog/how-hulu-uses-influxdb-and-kafka-to-scale-to-over-1-million-metrics-a-second-1721476aaff5</td>
       </tr>  	
 	  <tr>
       <td>PayPal's Kafka Scaling</td>
-      <td>https://lnkd.in/gSxAVa89</td>
+      <td>https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab</td>
       </tr>  		  
     </table>
    </body>
 </html>
 
+<html>
+  <body>
+    <table>
+      <tr><td>MSP design</td><td>https://medium.com/walmartglobaltech/reliably-processing-trillions-of-kafka-messages-per-day-23494f553ef9</td></tr>
+    </table>
+      
+  </body>
+</html>
 <html>
   <body>
     <table>
