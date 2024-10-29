@@ -12,7 +12,7 @@
       </tr>
 	  <tr>
       <td>Trello Kafka</td>
-      <td>https://lnkd.in/gJhvX-dg</td>
+      <td>https://tech.trello.com/why-we-chose-kafka/</td>
       </tr>
 	  <tr>
       <td>Salesforce's Kafka-Inspired Architecture</td>
